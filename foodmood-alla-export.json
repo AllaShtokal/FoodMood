@@ -1,0 +1,216 @@
+{
+  "Category": {
+    "01": {
+      "Name": "PIZZA",
+      "Image": "http://express-pizza.vn.ua/upload/iblock/a7a/a7afdc8fd6afa16ee6993cff9de87495.png"
+    },
+    "02": {
+      "Name": "FREE AND CHICKEN MENU",
+      "Image": "http://express-pizza.vn.ua/upload/iblock/896/896eb0f6417c1bed565cb84409bfb234.png"
+    },
+    "03": {
+      "Name": "SALATY",
+      "Image": "http://express-pizza.vn.ua/upload/iblock/e0a/e0ac849502e6e2410e0a30d7fdf4fe58.png"
+    },
+    "04": {
+      "Name": "PAN CACKES",
+      "Image": "http://express-pizza.vn.ua/upload/iblock/dde/dde7d6af64218bff105637827e3a5739.jpg"
+    },
+    "05": {
+      "Name": "SOUPS",
+      "Image": "http://express-pizza.vn.ua/upload/iblock/54c/54c7562f8d34d9f5a7aa04eb85a32488.png"
+    },
+    "06": {
+      "Name": "DESRTS",
+      "Image": "http://express-pizza.vn.ua/upload/iblock/0f0/0f059c09afd1afc118bf84c37efb9de2.png"
+    }
+  },
+   "Food": {
+    "10": {
+      "Name": "КАРТОПЛЯ ПО-СЕЛЯНСКИ",
+      "Image": "https://express-pizza.vn.ua/upload/iblock/842/8429efb882a2709297f242165b0da72f.jpg?154287772499435",
+      "Description": "Картопля по-селянськи велика порція 300г",
+      "Price": "54 грн",
+      "MenuID": "02"
+    },
+    "11": {
+      "Name": "КАРТОПЛЯ ФРІ",
+      "Image": "https://express-pizza.vn.ua/upload/iblock/842/8429efb882a2709297f242165b0da72f.jpg?154287772499435",
+      "Description": "Картопля фрі велика порція 200г",
+      "Price": "42 грн",
+      "MenuID": "02"
+    },
+    "12": {
+      "Name": "КУРЯЧІ КРИЛЬЦЯ",
+      "Image": "https://express-pizza.vn.ua/upload/iblock/3b1/3b1673b35e6a5a86342f14d6ed8cf32d.jpg?154287802967728",
+      "Description": "4шт",
+      "Price": "51 грн",
+      "MenuID": "02"
+    },
+    "13": {
+      "Name": "КУРЯЧІ НАГЕТСИ",
+      "Image": "https://express-pizza.vn.ua/upload/iblock/eb2/eb294b1102545b002b1f2ed4bd2ec50f.jpg?154287813578241",
+      "Description": "4шт",
+      "Price": "51 грн",
+      "MenuID": "02"
+    },
+    "14": {
+      "Name": "САЛАТ ОВОЧЕВИЙ",
+      "Image": "https://express-pizza.vn.ua/upload/iblock/dba/dba1e3930ddf7ce44bcfab4977504dd2.jpg?1542883505106089",
+      "Description": "помідори, перець солодкий, огірки, салат листовий, олія соняшникова 300г",
+      "Price": "45 грн",
+      "MenuID": "03"
+    },
+    "15": {
+      "Name": "ГРЕЦЬКИЙ",
+      "Image": "https://express-pizza.vn.ua/upload/iblock/d75/d759c6210bdad04965a2e04e9ec4bf6d.jpg?154288344980357",
+      "Description": "помідори, перець солодкий, огірки, салат листовий, сир фета, маслини, олія соняшникова 300г",
+      "Price": "57 грн",
+      "MenuID": "03"
+    },
+    "16": {
+      "Name": "МЛИНЦІ З ШОКОЛАДОМ,БАНАНОМ,ГОРІХАМИ",
+      "Image": "https://express-pizza.vn.ua/upload/iblock/84e/84eb3cf479bdfa8b2d8641b4c257ba8f.jpg?154287840668336",
+      "Description": "Млинці з шоколадом, бананом і горіхами 2шт",
+      "Price": "39 грн",
+      "MenuID": "04"
+    },
+    "17": {
+      "Name": "НАЛИСНИКИ З СИРОМ ТА РОДЗИНКАМИ",
+      "Image": "https://express-pizza.vn.ua/upload/iblock/8d9/8d9c25906ab9e2b0f9ab43bba7ed8bf2.jpg?154287843477201",
+      "Description": "млинчики з солодким сиром та родзинками, злегка обсмажені на вершковому маслі 2шт",
+      "Price": "35 грн",
+      "MenuID": "04"
+    },
+    "18": {
+      "Name": "НАЛИСНИКИ З СЬОМГОЮ ТА СИРОМ",
+      "Image": "https://express-pizza.vn.ua/upload/iblock/8d9/8d9c25906ab9e2b0f9ab43bba7ed8bf2.jpg?154287843477201",
+      "Description": "млинчики з солодким сиром та родзинками, злегка обсмажені на вершковому маслі 2шт",
+      "Price": "35 грн",
+      "MenuID": "04"
+    },
+    "19": {
+      "Name": "НАЛИСНИКИ З КУРКОЮ ТА ГРИБАМИ",
+      "Image": "https://express-pizza.vn.ua/upload/iblock/54f/54fe4d688fa5281432d95c6e054ad509.jpg?154287826280175",
+      "Description": "млинці з куркою і грибами 2шт",
+      "Price": "35 грн",
+      "MenuID": "04"
+    },
+    "20": {
+      "Name": "УГОРСЬКИЙ ХОЛОДНИЙ СУП",
+      "Image": "https://express-pizza.vn.ua/upload/iblock/2f0/2f04932f1f13ae18d7e1eedb0b45dcd9.jpg?154288292857997",
+      "Description": "кефір, арахіс, огірки свіжі, цибуля зелена, петрушка, кріп, сметана, масло оливкове 350г",
+      "Price": "31 грн",
+      "MenuID": "05"
+    },
+    "21": {
+      "Name": "КУРЯЧИЙ БУЛЬЙОН З ПАСТОЮ \"ТАГЛІОЛІМІ\"",
+      "Image": "https://express-pizza.vn.ua/upload/iblock/d74/d740146565b5f779274c06b9f7286ef3.jpg?154288297855512",
+      "Description": "наваристий бульйон з домашньої курки з тонкою локшиною (тагліоліні), курячим філе і кропом 350г",
+      "Price": "49 грн",
+      "MenuID": "05"
+    },
+    "22": {
+      "Name": "КРЕМ-СУП З ШАМПІНЬЙОНАМИ",
+      "Image": "https://express-pizza.vn.ua/upload/iblock/f23/f23d8eb7d114fbdb380bc0b6b36a8c25.jpg?154288302558307",
+      "Description": "печериці, цибуля ріпчаста, картопля, сметана, масло рослинне, курячий бульйон, зелень 350г",
+      "Price": "34 грн",
+      "MenuID": "05"
+    },
+    "23": {
+      "Name": "ТОРТ НАПОЛЕОН",
+      "Image": "https://express-pizza.vn.ua/upload/iblock/a28/a2823c4e1c2b1617607d01d171e3e897.jpg?154287866057419",
+      "Description": "тендітні коржі з традиційного листкового тіста, крем заварний з додаванням згущеного молока і вершкового масла 200г",
+      "Price": "31 грн",
+      "MenuID": "06"
+    },
+    "24": {
+      "Name": "ФЛУДЕН",
+      "Image": "https://express-pizza.vn.ua/upload/iblock/0b3/0b3c1d24dc4362ded5897bd577884e88.jpg?154287870148245",
+      "Description": "струдель с начинкой из кураги, изюма, орехов, лимона и вишни, прекрасно подходит к чаю 100г",
+      "Price": "25 грн",
+      "MenuID": "06"
+    },
+    "01": {
+      "Name": "ПІЦА \"4 СИРИ КЛАСИК\"",
+      "Image": "https://express-pizza.vn.ua/upload/iblock/1c6/1c652065f4a92b351f562c03c4c8083c.jpg?153915588850987",
+      "Description": "Вершковий соус, спеції, сир моцарелла, сир Гауда, сир Горгонзола, сир Пармезан.",
+      "Price": "123 грн",
+      "MenuID": "01"
+    },
+    "02": {
+      "Name": "ПІЦА \"4 СИРИ\"",
+      "Image": "https://express-pizza.vn.ua/upload/iblock/6ac/6ac994b00b277b33ad968ef7fad0f4ca.jpg?154911101556766",
+      "Description": "соус \"Маринара\", сир \"Гауда\", сир \"Голландський\", сир \"Моцарелла\", швейцарський сир \"Голд\", сир \"Пармезан\", помідори",
+      "Price": "123 грн",
+      "MenuID": "01"
+    },
+    "03": {
+      "Name": "ПІЦА \"ВІЛАЖ\"",
+      "Image": "https://express-pizza.vn.ua/upload/iblock/daf/daf6a16777bb1adbe24eda66db814acf.jpg?153915559477532",
+      "Description": "соус \"Маринара\", телятина обсмажена зі спеціями, перець болгарський, помідори, майонез, сир \"Моцарелла\", зелень",
+      "Price": "123 грн",
+      "MenuID": "01"
+    },
+    "04": {
+      "Name": "ПІЦА \"ДІАБЛО\"",
+      "Image": "https://express-pizza.vn.ua/upload/iblock/5aa/5aad54792cf4bafca610be209053c3e1.jpg?153915550667034",
+      "Description": "соус \"Маринара\", грудинка свинна, салямі, шинка, помідори, перець болгарський, зелень, сир \"Моцарелла\", перець гострий \"Пепероні\"",
+      "Price": "142 грн",
+      "MenuID": "01"
+    },
+    "05": {
+      "Name": "ПІЦА \"КАПРІЧЕЗА\"",
+      "Image": "https://express-pizza.vn.ua/upload/iblock/66d/66d064763fe464ea8704144feba1c182.jpg?153915582972307",
+      "Description": "соус \"Маринара\", шинка, печериці, помідори, бринза болгарська, баклажани мариновані з часником, сир \"Моцарелла\", зелень",
+      "Price": "118 грн",
+      "MenuID": "01"
+    },
+    "06": {
+      "Name": "ПІЦА \"КАРБОНАРА\"",
+      "Image": "https://express-pizza.vn.ua/upload/iblock/592/59226b7bb55d0287f4544486cc97b5a1.jpg?153915597856940",
+      "Description": "соус \"Карбонара\", яйце куряче відварне, цибуля маринована, шинка, грудинка свинна, сир \"Моцарелла\", зелень",
+      "Price": "109 грн",
+      "MenuID": "01"
+    },
+    "07": {
+      "Name": "ПІЦА \"КАССАБЛАНКА\"",
+      "Image": "https://express-pizza.vn.ua/upload/iblock/997/997b6f35945b448f357f6304ec8b4ed9.jpg?153915623165978",
+      "Description": "соус \"Маринара\", помідори, печериці, телятина обсмажена зі спеціями, бекон, шинка, філе куряче копчене, сир \"Моцарелла\", зелень",
+      "Price": "152 грн",
+      "MenuID": "01"
+    },
+    "08": {
+      "Name": "ПІЦА \"МАРГАРИТА\"",
+      "Image": "https://express-pizza.vn.ua/upload/iblock/cb4/cb411ebff87e5ad920671bbbc23662af.jpg?153915626654443",
+      "Description": "соус \"Маринара\", помідори, сир \"Моцарелла\", зелень",
+      "Price": "83 грн",
+      "MenuID": "01"
+    },
+    "09": {
+      "Name": "ПІЦА \"РАНЧО\"",
+      "Image": "https://express-pizza.vn.ua/upload/iblock/bdb/bdbb8309dc1e1b51612549a51060a632.jpg?153915707271570",
+      "Description": "соус \"Маринара\", філе куряче копчене, курка смажена, помідори, печериці, перець болгарський, сир \"Моцарелла\", зелень",
+      "Price": "143 грн",
+      "MenuID": "01"
+    }
+  },
+    "User" : {
+    "111" : {
+      "name" : "Alla",
+      "password" : "111"
+    },
+    "0636356636" : {
+      "Name" : "Alla2",
+      "Password" : "1234"
+    },
+    "0995623145" : {
+      "Name" : "Alla",
+      "Password" : "123"
+    },
+    "06363566366" : {
+      "name" : "Alla",
+      "password" : "1234"
+    }
+  }
+}
